@@ -1,10 +1,8 @@
 # FreshTrack Privacy Policy
 
-Last updated: 2026-07-17
+Last updated: 2026-07-26
 
 This Privacy Policy explains how FreshTrack collects, uses, and protects information when you use the app. FreshTrack is a grocery expiry tracking app that lets you create an account, store grocery items, save expiry dates, and receive expiry reminders.
-
-This is a draft policy for an MVP app. It may need to be updated as the product changes or as legal requirements evolve.
 
 ## Information We Collect
 
