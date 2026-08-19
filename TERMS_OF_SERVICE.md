@@ -72,4 +72,4 @@ We may update these Terms from time to time. If we make material changes, we may
 
 For questions or support, contact:
 
-`support@example.com`
+`anton.karlstrom1@gmail.com`
