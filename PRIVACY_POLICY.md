@@ -48,7 +48,7 @@ If you enable notifications, FreshTrack may send reminders about items that are 
 
 ## Household Sharing
 
-FreshTrack lets you create households and invite other registered users by email. Members of a household can see the groceries stored in that household and may add, edit, or delete shared groceries. Members can also see the household member list and activity logs describing changes made in the household. Household information is only shared with members of that household and the service providers needed to operate the feature.
+FreshTrack lets you create households and invite other registered users by email. When you invite or join a household, the email address associated with your account may be visible to the other members of that household. Members of a household can see the groceries stored in that household and may add, edit, or delete shared groceries. Members can also see the household member list and activity logs describing changes made in the household. Household information is only shared with members of that household and the service providers needed to operate the feature.
 
 ## Data Retention
 
