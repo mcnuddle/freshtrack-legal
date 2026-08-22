@@ -1,6 +1,6 @@
 # FreshTrack Terms of Service
 
-Last updated: 2026-06-15
+Last updated: 2026-08-22
 
 These Terms of Service govern your use of FreshTrack. By using the app, you agree to these terms.
 
